@@ -1,3 +1,4 @@
+npm run start
 45# CLUI
 
 **This repository is no longer maintained** 
